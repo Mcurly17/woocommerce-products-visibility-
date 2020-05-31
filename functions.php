@@ -7,22 +7,22 @@ function visibility_products() {
 	// Each post with availabilities dates
     $posts_avaibility = array(
         array(
-            'id'                 => '1', 				// Your product id
+            'id'                 => '1', 		// Your product id
             'start_availability' => date('01-10-Y'), 	// Your product availability start
             'end_availability'   => date('30-04-Y'), 	// Your product availability end
         ),
         array(
-            'id'                 => '2', 				// Your product id
+            'id'                 => '2', 		// Your product id
             'start_availability' => date('01-10-Y'),  	// Your product availability start
             'end_availability'   => date('30-04-Y'),  	// Your product availability end
         ),
         array(
-            'id'                 => '3',  				// Your product id
+            'id'                 => '3',  		// Your product id
             'start_availability' => date('15-07-Y'),  	// Your product availability start
             'end_availability'   => date('01-11-Y'),  	// Your product availability end
         ),
         array(
-            'id'                 => '4', 				// Your product id
+            'id'                 => '4', 		// Your product id
             'start_availability' => date('01-05-Y'),  	// Your product availability start
             'end_availability'   => date('31-08-Y'),  	// Your product availability end
         )
